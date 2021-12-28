@@ -1,0 +1,11 @@
+.wrapper h1{
+    font-size: 4rem;
+}
+
+.wrapper ul li {
+    list-style: disc;
+}
+
+.wrapper p {
+    margin-top: 1rem;
+}
